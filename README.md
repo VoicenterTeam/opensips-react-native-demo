@@ -60,7 +60,7 @@ npm install -g react-native-cli
 Open a terminal or command prompt and run:
 
 ```bash
-git clone [https://github.com/your-username/your-project-name.git](https://github.com/VoicenterTeam/opensips-react-native-demo.git)
+git clone https://github.com/VoicenterTeam/opensips-react-native-demo.git
 cd opensips-react-native-demo
 ```
 
