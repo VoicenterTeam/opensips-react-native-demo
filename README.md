@@ -22,7 +22,15 @@ You should see version numbers if it worked.
 
 ### 2. **Java Development Kit (JDK)**
 
-* Install JDK 17 or 11: [https://adoptium.net/](https://adoptium.net/)
+*R eact Native also requires Java SE Development Kit (JDK), which can be installed using Chocolatey.
+
+* Open an Administrator Command Prompt (right click Command Prompt and select "Run as Administrator"), then run the following command:
+
+```bash
+choco install -y microsoft-openjdk17
+```
+
+* If you have already installed Node on your system, make sure it is Node 18 or newer. If you already have a JDK on your system, we recommend JDK17. You may encounter problems using higher JDK versions.
 
 ### 3. **Android Studio**
 
